@@ -37,7 +37,7 @@
 
 ## How to Run
 1. Open the project notebook in Google Colab:  
-   [Open in Colab](#) *(replace # with your Colab link)*
+   [https://colab.research.google.com/drive/1vlhI_KYLZixzIKqTNYdwPLxETapMAvln?usp=sharing](#) 
 
 2. Upload `testing_final_data_csv.csv` to Colab if not already uploaded
 
